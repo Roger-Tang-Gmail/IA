@@ -61,7 +61,7 @@ Engenheiro de Computação com Mestrado Profissional em Engenharia de Software (
 - Suporte técnico a **4+ fabricantes de terminais**: Ingenico, PAX, Verifone, Newland — garantindo compatibilidade e certificação EMV.
 - Atuação em um dos maiores players de meios de pagamento do Brasil, filiado ao Banco Itaú.
 
-### LexisNexis Risk Solutions — Senior Software Specialist / Coordenador de Equipe
+### LexisNexis Risk Solutions — Senior Software Specialist
 **2020 – 2021** | https://risk.lexisnexis.com.br | *Big Data*
 
 - Desenvolvimento em **HPCC** (High Performance Computing Cluster) com linguagem **ECL** para o projeto **Cadastro Positivo** — iniciativa nacional de crédito de alta escala.

@@ -56,3 +56,7 @@ Relatório consolidado salvo em: `Relatorio_Final_Time_Agentes.md`
 - [ ] Reescrever currículo com base nas recomendações do relatório
 - [ ] Atualizar LinkedIn
 - [ ] Configurar alertas de vagas
+
+
+## Logou Claude
+claude auth logout
