@@ -53,7 +53,7 @@ Engenheiro de Computação pela Poli-USP e Mestre em Engenharia de Software (IPT
 *   Desenvolvimento de software embarcado para terminais de pagamento (POS/PinPads) em C/C++ sob Linux.
 *   Implementação de protocolos de segurança, bibliotecas ABECS e integração com sistemas SEFAZ (SAT).
 
-<div style="page-break-after: always;"></div>
+---
 
 ### **Liderança Técnica e Coordenação (Projetos Selecionados)**
 
@@ -61,7 +61,7 @@ Engenheiro de Computação pela Poli-USP e Mestre em Engenharia de Software (IPT
 *   **NEC Latin America:** Gestor de Projeto e Arquiteto de software. Liderança de equipe para criação de ferramenta de automação de vistorias — (2012 – 2015)
 *   **ID-Tech / Credigy:** Gerente de TI/Desenvolvimento. Liderança de equipes (até 8 pessoas) e pioneirismo na integração de biometria de íris em ATMs bancários — (2002 – 2004)
 
----
+<div style="page-break-after: always;"></div>
 
 ### **Competências Técnicas Selecionadas**
 
@@ -70,26 +70,18 @@ Engenheiro de Computação pela Poli-USP e Mestre em Engenharia de Software (IPT
 *   **Fintech/Payments:** EMV, Protocolo ABECS, PCI DSS, Criptografia, Biometria.
 *   **IA & Dados:** Engenharia de Prompt (GitHub Copilot), Machine Learning (Certificação 42 SP), Big Data (HPCC Systems).
 
----
-
 ### **Habilidades**
 
 * Empatia e bom relacionamento interpessoal
 * Resiliência sob pressão e estresse
 * Liderança para conduzir e motivar equipes
 * Comprometimento em mostrar bons resultados
-* Bom relacionamento com clientes e empresas
 
----
 ### **Histórico Profissional Anterior**
-
 #### Bancos
 *   **BM&F Bovespa:** Engenheiro de Software no sistema WTR (Contratos Futuros) em C++, VB6 e C# (2006)
 *   **Banco GE Capital:** Manutenção de sistema de decisão de crédito com Redes Neurais (C++, VB6, Oracle) (2002)
 *   **BankBoston:** Manutenção e gerenciamento de sistemas de Renda Fixa e Caixa (C++ e VB) (1999)
-
-<div style="page-break-after: always;"></div>
-
 #### Tecnologia
 *   **Microsoft Brasil:** Desenvolvedor Dynamics AX (X++) (2011)
 *   **LSITEC / ITI:** Ferramentas de homologação de Smart Cards e Tokens Criptográficos em C++ (2005)
@@ -103,6 +95,3 @@ Engenheiro de Computação pela Poli-USP e Mestre em Engenharia de Software (IPT
 *   **CharPointer:** Desenvolvimento de ferramenta topográfica 3D (OpenGL, XNA, DirectX) em C# e C++ (2010)
 *   **Pixellabs:** Desenvolvimento de Games 3D, Realidade Aumentada (Cirque du Soleil) e sistemas .NET/SQL (2009)
 *   **GLU Mobile:** Engenheiro de Porting de jogos para celulares (Qualcomm BREW / C++) (2008)
-
-
-
