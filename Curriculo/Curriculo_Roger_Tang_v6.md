@@ -1,4 +1,5 @@
-# Roger Tang, Engenheiro (Poli-USP) Mestre (IPT-USP)
+# Roger Tang
+## Engenheiro (Poli-USP) Mestre em Engenharia de Software (IPT-USP)
 **Senior Software Engineer | Staff Engineer | Especialista em Sistemas de Missão Crítica**
 
 📍 São Paulo, SP | 📧 rogertangrt@hotmail.com | 📱 (11) 99167-3132  
@@ -7,10 +8,10 @@
 ---
 
 ### **Resumo Profissional**
-Engenheiro de Computação (Poli-USP) e Mestre em Engenharia de Software (IPT-SP) com mais de 25 anos de experiência na arquitetura e desenvolvimento de sistemas de alta complexidade e missão crítica. Expertise consolidada em **setor financeiro (Tier-1)**, **meios de pagamento** e **Big Data**. Histórico comprovado na liderança técnica de projetos estratégicos, modernização de legados e integração de IA Generativa para ganho de produtividade. Co-autor de software registrado no INPI.
+Engenheiro de Computação pela Poli-USP e Mestre em Engenharia de Software (IPT-SP) com 25+ anos de experiência na arquitetura de sistemas de missão crítica em bancos Tier-1 e Fintechs. Especialista em liderar a modernização de ecossistemas legados complexos para arquiteturas de microsserviços e APIs de alta disponibilidade. Pioneiro na adoção estratégica de IA Generativa (GitHub Copilot) para otimização do ciclo de vida de desenvolvimento (SDLC) e mentoria técnica. Co-autor de software registrado no INPI e referência em soluções escaláveis para o setor financeiro e meios de pagamento.
 
 *   **Core Stack:** C# (.NET 8/Core), C/C++, SQL Server, Oracle, Arquitetura de Microserviços e Sistemas Embarcados.
-*   **Diferencial:** Sólida base acadêmica aplicada à resolução de problemas complexos de escalabilidade e disponibilidade.
+*   **Diferencial:** Sólida base acadêmica aplicada à resolução de problemas complexos de escalabilidade, resiliência e computação autonômica.
 ---
 ### **Formação Acadêmica e Propriedade Intelectual**
 
